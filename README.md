@@ -1,6 +1,6 @@
 # 🛡️ HawkEye Scanner - Web Application Vulnerability Scanner 
 
-A comprehensive educational tool for learning about web application security vulnerabilities. This project includes multiple implementations (React, Python GUI, Python Flask + HTML) to demonstrate vulnerability scanning concepts.
+A comprehensive educational tool for learning about web application security vulnerabilities.
 
 ## ⚠️ Disclaimer :
 
@@ -118,4 +118,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-#THANK YOU
+# THANK YOU
